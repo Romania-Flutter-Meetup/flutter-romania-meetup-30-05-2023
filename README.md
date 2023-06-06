@@ -1,6 +1,6 @@
 # Flutter Demo
 
-Demo Application that highlights the use of Firebase with great animations using flutter_animte and rive packages
+Demo that highlights the use of Firebase with great animations using flutter_animte and rive packages done by Flutter GDE Romane Jaquez.
 
 ## Packages
 
