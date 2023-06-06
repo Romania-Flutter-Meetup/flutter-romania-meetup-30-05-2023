@@ -1,16 +1,14 @@
-# flutter_bucarest_web
+# Flutter Demo
 
-A new Flutter project.
+Demo Application that highlights the use of Firebase with great animations using flutter_animte and rive packages
 
-## Getting Started
+## Packages
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Animations
+- [Rive](https://pub.dev/packages/rive)
+- [Flutter Animate](https://pub.dev/packages/flutter_animate)
+### State Management
+- [Riverpod](https://pub.dev/packages/riverpod)
+### Firebase
+- [Firebase Core](https://pub.dev/packages/firebase_core)
+- [Firebase Cloud Firestore](https://pub.dev/packages/cloud_firestore)
